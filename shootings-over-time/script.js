@@ -24,7 +24,7 @@ var myChart = new Chart(ctx, {
             },
             subtitle: {
                 display: true,
-                text: 'Life expectancy rates in Brazil and China have neared US-levels in recent years. '
+                text: '2022 is already the fourth-highest year for shootings, surpassing 2020 rates. '
             }
         },
         scales: {
